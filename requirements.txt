@@ -1,0 +1,4 @@
+mdtraj==1.9.9
+networkx==3.1
+torch==1.12.1+cu113
+--extra-index-url https://download.pytorch.org/whl/cu113 # the cuda version should be changed according to your gpu version

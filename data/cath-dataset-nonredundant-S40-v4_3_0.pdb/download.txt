@@ -1,0 +1,1 @@
+CATH 40% sequential non-redundancy dataset downloaded from http://download.cathdb.info/cath/releases/all-releases/v4_3_0/non-redundant-data-sets/cath-dataset-nonredundant-S40-v4_3_0.pdb.tgz

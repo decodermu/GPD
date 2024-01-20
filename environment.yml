@@ -1,0 +1,10 @@
+name: GPD
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8  
+  - cudatoolkit=11.3 # change with your own gpu version
+  - pytorch==1.12.1
+  - mdtraj==1.9.9
+  - networkx==3.1

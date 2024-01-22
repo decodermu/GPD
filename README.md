@@ -1,7 +1,7 @@
 # GPD
 Graphormer-based Protein Design (GPD) model deploys the Transformer on a graph-based representation of 3D protein structures and supplements it with Gaussian noise and a sequence random mask applied to node features, thereby enhancing sequence recovery and diversity. The performance of GPD model was significantly better than that of state-of-the-art model for ProteinMPNN on multiple independent tests, especially for sequence diversity.
 
-![image](http://yu.life.sjtu.edu.cn/ChenLab/GPDGenerator/static/imgs/workflow.png)
+![image](./GPD.jpg)
 
 # Install
 ## Quick Start

@@ -16,7 +16,7 @@ For 40 series gpus, we recommend use the following methods to install. For the c
 conda create -n GPD
 source activate GPD
 conda install pytorch==1.12.1 -c pytorch
-conda install -c conda-forge mdtraj==1.9.8
+conda install -c conda-forge mdtraj==1.9.9
 conda install -c anaconda networkx==3.1
 ```
 Note that GPD could be used with cuda, you can install the cudatoolkit package according to your own gpu version.
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 # Example
 ```
-cd example/
+cd test/
 sh submit_example_2_fixed.sh  (simple example)
 sh submit_example_1.sh (fix some residue positions)
 ```
